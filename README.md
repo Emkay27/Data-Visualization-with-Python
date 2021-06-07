@@ -12,3 +12,4 @@ ___Below are the links to my GitHub Gist and IBM Watson Studio accounts which sh
 <details>
         <summary>Links </summary>
         <p> Data Visualization : https://gist.github.com/785c30436b6bb002bca96dcdbec8e05e </p>
+        <p> Area Plots, Histograms, and Bar Plots : https://gist.github.com/7fcf32dcb640606d9f02dedf57915527 </p>
