@@ -14,4 +14,4 @@ ___Below are the links to my GitHub Gist and IBM Watson Studio accounts which sh
         <p> Data Visualization : https://gist.github.com/785c30436b6bb002bca96dcdbec8e05e </p>
         <p> Area Plots, Histograms, and Bar Plots : https://gist.github.com/e8b1676e9f27586b27d6e3df72586057 </p>
         <p> Pie Charts, Box Plots, Scatter Plots, and Bubble Plots : https://gist.github.com/2f289b37e52fe1c96f43f782c9af2961 </p>
-        <p>Waffle Charts, Word Clouds, and Regression Plots :  </p>
+        <p>Waffle Charts, Word Clouds, and Regression Plots : https://jupyterlab-2-labs-prod-jupyterlab-us-east-1.labs.cognitiveclass.ai/user/ace27mk/doc/tree/labs/DV0101EN/DV0101EN-Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots-py.ipynb </p>
